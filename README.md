@@ -3,22 +3,22 @@ This project provides a simple web application that allows users to upload an im
 
 **Features**
 
-  >  Image Upload: Easily upload images in various formats (JPG, PNG, etc.).
+  1.  Image Upload: Easily upload images in various formats (JPG, PNG, etc.).
 
-  > Text Extraction: Utilizes Tesseract.js to accurately extract text from the uploaded images.
+  2. Text Extraction: Utilizes Tesseract.js to accurately extract text from the uploaded images.
 
-  >  Progress Indicator: Displays the OCR processing progress to the user.
+  3.  Progress Indicator: Displays the OCR processing progress to the user.
 
-  > Responsive Design: A straightforward and clean user interface.
+  4. Responsive Design: A straightforward and clean user interface.
 
 **Technologies Used**
 
 
-  >  React: A JavaScript library for building user interfaces.
+  1.  React: A JavaScript library for building user interfaces.
 
-  > Tesseract.js: A pure JavaScript port of the popular Tesseract OCR engine.
+  2. Tesseract.js: A pure JavaScript port of the popular Tesseract OCR engine.
 
-  >Tailwind CSS: (Presumed, based on className usage in the provided code) A utility-first CSS framework for rapid UI development.
+  3.Tailwind CSS: (Presumed, based on className usage in the provided code) A utility-first CSS framework for rapid UI development.
    
 
 # Getting Started
