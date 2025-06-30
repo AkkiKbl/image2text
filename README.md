@@ -94,6 +94,8 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 Please make sure your contributions follow the project's coding standards and include relevant tests where applicable.
 
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
