@@ -1,24 +1,24 @@
 # Image to Text Converter
 This project provides a simple web application that allows users to upload an image and extract text from it using Optical Character Recognition (OCR) powered by Tesseract.js.
 
-Features
+**Features**
 
-    Image Upload: Easily upload images in various formats (JPG, PNG, etc.).
+  >  Image Upload: Easily upload images in various formats (JPG, PNG, etc.).
 
-    Text Extraction: Utilizes Tesseract.js to accurately extract text from the uploaded images.
+  > Text Extraction: Utilizes Tesseract.js to accurately extract text from the uploaded images.
 
-    Progress Indicator: Displays the OCR processing progress to the user.
+  >  Progress Indicator: Displays the OCR processing progress to the user.
 
-    Responsive Design: A straightforward and clean user interface.
+  > Responsive Design: A straightforward and clean user interface.
 
-Technologies Used
+**Technologies Used**
 
 
-    React: A JavaScript library for building user interfaces.
+  >  React: A JavaScript library for building user interfaces.
 
-    Tesseract.js: A pure JavaScript port of the popular Tesseract OCR engine.
+  > Tesseract.js: A pure JavaScript port of the popular Tesseract OCR engine.
 
-    Tailwind CSS: (Presumed, based on className usage in the provided code) A utility-first CSS framework for rapid UI development.
+  >Tailwind CSS: (Presumed, based on className usage in the provided code) A utility-first CSS framework for rapid UI development.
    
 
 # Getting Started
